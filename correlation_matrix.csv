@@ -1,0 +1,6 @@
+,Item_Weight,Item_Visibility,Item_MRP,Outlet_Establishment_Year,Item_Outlet_Sales
+Item_Weight,1.0,-0.014168,0.024951,0.007739,0.009693
+Item_Visibility,-0.014168,1.0,-0.001315,-0.074834,-0.128625
+Item_MRP,0.024951,-0.001315,1.0,0.00502,0.567574
+Outlet_Establishment_Year,0.007739,-0.074834,0.00502,1.0,-0.049135
+Item_Outlet_Sales,0.009693,-0.128625,0.567574,-0.049135,1.0
